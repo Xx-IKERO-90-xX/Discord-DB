@@ -1,0 +1,12 @@
+Antes de ejecutar este Script deberá tener un bot creado y tener en su ordenador las siguientes Librerías:
+	1. Discord.py
+	2. Discord_components
+	3. Pymongo
+
+Si no saben crear BOTS deberán escribir en el navegador Discord dev y el primer resultado que aparece es la pagina de Discord Development Portal que ahí es donde crearán bots.
+
+Para las librerías de discord.py les dejaré un enlace donde aparece las opciones de instalación dependiendo el sistema que usen:
+
+Para discord_compoenents lo primero es tener las librerías de discord.py y segundo ejecuten este comando en una terminal: pip install discord-components 
+
+Y para Pymongo es ejecutando el siguiente comando: pip install pymongo
